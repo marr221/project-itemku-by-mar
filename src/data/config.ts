@@ -56,7 +56,7 @@ export const PRODUCTS: Product[] = [
   // Mobile Legends Products
   {
     id: "ml-1",
-    name: "AKUN ML",
+    name: "AKUN ML MURMER",
     category: "akun",
     game: "Mobile Legends",
     originalPrice: 19000000,
